@@ -1,0 +1,11 @@
+.banner{
+    background-color: azure;
+}
+h1{
+    color: black;
+}
+button{
+    border-radius: 2rem;
+    color: aqua;
+    background-color: black;
+}
