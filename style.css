@@ -1,5 +1,5 @@
 .banner{
-    background-color: azure;
+    background-color: rgb(23, 100, 3);
 }
 h1{
     color: black;
@@ -8,4 +8,10 @@ button{
     border-radius: 2rem;
     color: aqua;
     background-color: black;
+}
+h2{
+    color: red;
+}
+.bg{
+    background-color: blue ;
 }
